@@ -1,0 +1,21 @@
+product_id,product_name,price,category
+1,Product_1,28.44,Electronics
+2,Product_2,62.75,Electronics
+3,Product_3,28.15,Electronics
+4,Product_4,67.01,Clothing
+5,Product_5,85.78,Home Goods
+6,Product_6,17.51,Electronics
+7,Product_7,140.03,Clothing
+8,Product_8,115.49,Home Goods
+9,Product_9,56.75,Books
+10,Product_10,107.03,Home Goods
+11,Product_11,23.32,Home Goods
+12,Product_12,117.31,Books
+13,Product_13,186.21,Clothing
+14,Product_14,67.12,Electronics
+15,Product_15,135.15,Electronics
+16,Product_16,30.7,Electronics
+17,Product_17,144.68,Books
+18,Product_18,61.43,Books
+19,Product_19,40.72,Electronics
+20,Product_20,119.37,Home Goods
