@@ -21,4 +21,4 @@ jobs:
         aws-region: us-east-2
 
     - name: Deploy static site to S3 bucket
-      run: aws s3 sync . s3://tmslcicd-bkt13  --delete
+      run: aws s3 sync . s3://tmsl-sandip-bkt  --delete
